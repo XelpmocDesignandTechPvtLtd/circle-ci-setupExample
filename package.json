@@ -7,5 +7,8 @@
     "test": "jest"
   },
   "author": "atul",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^24.8.0"
+  }
 }
