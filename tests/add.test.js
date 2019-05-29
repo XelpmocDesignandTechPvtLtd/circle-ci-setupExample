@@ -6,5 +6,5 @@ test("check adding 2 numbers", () => {
 });
 test("check divide 2 numbers", () => {
     const result = method.divide(10,5);
-    expect(result).toBe(3);
+    expect(result).toBe(2.0);
 });
